@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-rtravel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/project-rtravel/static/js/main.e09fe13b.chunk.js",
+    "main.js.map": "/project-rtravel/static/js/main.e09fe13b.chunk.js.map",
+    "runtime-main.js": "/project-rtravel/static/js/runtime-main.60313721.js",
+    "runtime-main.js.map": "/project-rtravel/static/js/runtime-main.60313721.js.map",
+    "static/js/2.5046e70a.chunk.js": "/project-rtravel/static/js/2.5046e70a.chunk.js",
+    "static/js/2.5046e70a.chunk.js.map": "/project-rtravel/static/js/2.5046e70a.chunk.js.map",
+    "index.html": "/project-rtravel/index.html",
+    "precache-manifest.c59e829f60744744260faa37ba759890.js": "/project-rtravel/precache-manifest.c59e829f60744744260faa37ba759890.js",
+    "service-worker.js": "/project-rtravel/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/project-rtravel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5046e70a.chunk.js.LICENSE.txt": "/project-rtravel/static/js/2.5046e70a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/project-rtravel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60313721.js",
+    "static/js/2.5046e70a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e09fe13b.chunk.js"
+  ]
+}
